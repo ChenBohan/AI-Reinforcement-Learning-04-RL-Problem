@@ -10,6 +10,21 @@ Reinforcement Learning Course on UCL by David Silver
     - predicts what the environment will do next
     - P predicts the next state
     - R predicts the next (immediate) reward
+    
+- Observable Environments
+  - Fully Observable Environments
+    - agent directly observes environment state
+    - Agent state = environment state = information state
+  - Partially Observable Environments
+    - agent indirectly observes environment
+      - A robot with camera vision isn’t told its absolute location
+      - A trading agent only observes current prices
+      - A poker playing agent only observes public cards
+    - Now agent state != environment state
+    - Agent must construct its own state representation
+      - Complete history
+      - Beliefs of environment state
+      - Recurrent neural network
 
 - Categorizing RL agents
   - Value and Policy
