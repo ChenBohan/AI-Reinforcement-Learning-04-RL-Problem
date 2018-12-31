@@ -1,4 +1,4 @@
-# AI-Reinforcement-Learning-04-Markov-Decision-Processes
+# AI-Reinforcement-Learning-04-Basic
 Reinforcement Learning Course on UCL by David Silver
 
 - Major Components of an RL Agent
