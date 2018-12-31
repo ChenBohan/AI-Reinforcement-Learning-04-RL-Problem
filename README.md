@@ -1,4 +1,4 @@
-# AI-Reinforcement-Learning-04-Basic
+# AI-Reinforcement-Learning-04-RL-Problem
 Reinforcement Learning Course on UCL by David Silver
 
 - Major Components of an RL Agent
