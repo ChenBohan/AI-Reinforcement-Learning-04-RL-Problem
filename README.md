@@ -1,6 +1,10 @@
 # AI-Reinforcement-Learning-04-RL-Problem
 Reinforcement Learning Course on UCL by David Silver
 
+Website: http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
+
+Videos: https://www.bilibili.com/video/av32149008/?p=4
+
 - Major Components of an RL Agent
   - Policy 
     - Deterministic policy: a = π(s)
